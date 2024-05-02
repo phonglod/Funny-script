@@ -1,0 +1,10 @@
+psutil == 5.9.8
+GPUtil == 1.4.0
+py-cpuinfo == 9.0.0
+WMI == 1.5.1
+setuptools == 65.5.1
+requests == 2.31.0
+geocoder == 1.38.1
+progressbar == 2.5
+tabulate == 0.9.0
+datetime == 5.5
