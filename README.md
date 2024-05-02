@@ -1,4 +1,4 @@
-###About this repo
+### About this repo
 
 
 this is where i uploads my cool project 
@@ -6,7 +6,7 @@ this is where i uploads my cool project
 made by me, a 16yo kid
 
 
-###About me
+### About me
 
 
 you play roblox ?
