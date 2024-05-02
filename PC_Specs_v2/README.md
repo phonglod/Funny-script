@@ -1,7 +1,7 @@
 ### About
 This project is specially contributed by @FDIL501st
 
-*Project still in beta*
+*Project still under development*
 
 ### Other way to run
 First make sure you have the requirements installed
