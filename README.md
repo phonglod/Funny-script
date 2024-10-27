@@ -4,12 +4,9 @@ Contributor: github.com/FDIL501st
 
 this is where i uploads my cool project 
 
-made by me, a 16yo kid
+made by me
 
 
 ### About me
 
-
-you play roblox ?
-
-add me : BruceLee19991 (yes)
+yes
