@@ -1,7 +1,7 @@
 """
 WARNING: Before you run this script you need to run the command below in cmd to use properly
 
-Command: <"pip install psutil GPUtil py-cpuinfo wmi setuptools tabulate datetime requests geocoder>"
+Command: <"python.exe -m pip install psutil GPUtil py-cpuinfo wmi setuptools tabulate datetime requests geocoder>"
 """
 
 import threading ,time ,progressbar
